@@ -1,0 +1,4 @@
+playwright==1.44.0
+yfinance==0.2.40
+openai==0.28.0
+pandas==2.2.2

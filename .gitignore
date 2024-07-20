@@ -1,0 +1,22 @@
+# Ignore virtual environment directory
+stock_tracker_env/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore environment variable files
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and other unnecessary files
+*.log
+*.csv
+*.sqlite3
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
